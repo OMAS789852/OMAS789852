@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OMAS789852
+- 👋 Hi, I’m @Angelo
 - 👀 I’m interested in Cybersecurity and python \ for fun i do front-end developments
 - 🌱 I’m currently learning expert cybersecurity and advanced python for automation
 - 💞️ I’m looking to collaborate on any related projects
