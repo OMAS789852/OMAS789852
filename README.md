@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelo
-- 👀 I’m interested in Cybersecurity and python \ for fun i do front-end developments
-- 🌱 I’m currently learning expert cybersecurity and advanced python for automation
+- 👀 I’m interested in Cybersecurity and python \ front-end developments
+- 🌱 I’m currently learning expert cybersecurity and advanced python for automation and Ai
 - 💞️ I’m looking to collaborate on any related projects
 - 📫 How to reach me sheldonc6969@gmail.com @ instagram : mohamad_smn , DM me for any idea  
 
